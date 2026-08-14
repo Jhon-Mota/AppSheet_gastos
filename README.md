@@ -18,12 +18,12 @@
 <br>
 ## Imagem do aplicativo:
 <br>
-![Imagem do aplicativo](https://github.com/Jhon-Mota/AppSheet_gastos/blob/main/Aplicativo.png)<br>
+<img width="1915" height="672" alt="Image" src="https://github.com/user-attachments/assets/23469bf6-3004-4bec-afb0-4be3a28b03d6" />
 <br>
 Imagem do Google Sheets armazenando os dados:
 <br>
-![Imagem do Sheets](https://github.com/Jhon-Mota/AppSheet_gastos/blob/main/Aplicativo.png)
+<img width="1215" height="503" alt="Image" src="https://github.com/user-attachments/assets/8f46ffd3-3dd2-4a76-b70d-70267535d943" />
 <br>
 Imagem do Looker Studio:
 <br>
-![Imagem do Looker Studio]([https://github.com/Jhon-Mota/AppSheet_gastos/blob/main/Looker_studio.png](https://github.com/Jhon-Mota/AppSheet_gastos/blob/main/Looker_studio.png))
+<img width="1281" height="599" alt="Image" src="https://github.com/user-attachments/assets/9288956d-0229-4c27-93b7-743e5c9022d7" />
