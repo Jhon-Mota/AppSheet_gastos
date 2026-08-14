@@ -26,4 +26,4 @@ Imagem do Google Sheets armazenando os dados:
 <br>
 Imagem do Looker Studio:
 <br>
-![Imagem do Looker Studio](https://github.com/Jhon-Mota/AppSheet_gastos/blob/main/Looker_studio.png)
+![Imagem do Looker Studio]([https://github.com/Jhon-Mota/AppSheet_gastos/blob/main/Looker_studio.png](https://github.com/Jhon-Mota/AppSheet_gastos/blob/main/Looker_studio.png))
